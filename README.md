@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SergiuPlesco
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me plescosergiu@gmail.com
 
 <!---
