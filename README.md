@@ -5,7 +5,7 @@ SergiuPlesco/SergiuPlesco is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <!-- 2+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java stack.  I am always open in working with new tech stack. Following are my current tech stack. -->
-1 year of experience in designing and developing browser applications using MERN stack. I know how to create and consume RESTfull APIs. I have experience in developing, installing, managing WordPress themes.
+I am highly experienced in designing and developing browser applications using the MERN stack. I know how to create and consume RESTfull APIs. I have experience in developing, installing, managing WordPress themes.
 
 Following is my current tech stack.
 
