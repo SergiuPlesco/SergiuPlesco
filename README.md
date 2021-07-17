@@ -24,7 +24,7 @@ Demos:
 * Weather App with OpenWeather API deplyed on Github pages, search language - English: 
 https://sergiuplesco.github.io/React-Weather-App/
 * Take Notes App, CRUD and Authentication deployed on Heroku: 
-https://auth-note-app.herokuapp.com/
+https://notesauth.herokuapp.com/
 
 Soft Skills:
 
