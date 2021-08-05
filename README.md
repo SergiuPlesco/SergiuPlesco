@@ -21,7 +21,7 @@ Tech Stack:
 - Operating System: Windows
 
 Demos: 
-* Weather App with OpenWeather API deplyed on Github pages, search language - English: 
+* Weather App with OpenWeather API deployed on Github pages, search language - English: 
 https://sergiuplesco.github.io/React-Weather-App/
 * Take Notes App, CRUD and Authentication deployed on Heroku: 
 https://notesauth.herokuapp.com/
