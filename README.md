@@ -21,10 +21,15 @@ Tech Stack:
 - Operating System: Windows
 
 Demos: 
-* Weather App with OpenWeather API deployed on Github pages, search language - English: 
-https://sergiuplesco.github.io/React-Weather-App/
+* FINT IT browser app
+https://findbiz.herokuapp.com/
+
 * Take Notes App, CRUD and Authentication deployed on Heroku: 
 https://notesauth.herokuapp.com/
+
+* Weather App with OpenWeather API deployed on Github pages, search language - English: 
+https://sergiuplesco.github.io/React-Weather-App/
+
 
 Soft Skills:
 
