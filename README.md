@@ -21,7 +21,7 @@ Tech Stack:
 - Operating System: Windows
 
 Demos: 
-* FINT IT browser app
+* FIND IT browser app
 https://findbiz.herokuapp.com/
 
 * Take Notes App, CRUD and Authentication deployed on Heroku: 
