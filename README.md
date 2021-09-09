@@ -9,7 +9,7 @@ Experienced in designing and developing browser applications using the MERN stac
 
 Following is my current tech stack.
 
-Tech Stack:
+#### Tech Stack:
 
 - Backend: NodeJS, ExpressJS
 - Frontend: HTML5, CSS3, Bootstrap, JavaScript, ReactJS (Functional Components, Hooks)
@@ -18,9 +18,13 @@ Tech Stack:
 - Database: MongoDB Atlas, Mongoose
 - Version Control: Git
 - IDE: VS Code
-- Operating System: Windows
+- Operating System: Windows  
 
-Demos: 
+#### Experience: 
+September 2021 - present
+* Front-end Developer at [SmartData.Solutions](https://smartdata.solutions/)
+
+#### Demos: 
 * FIND IT browser app
 https://findbiz.herokuapp.com/
 
@@ -31,11 +35,11 @@ https://notesauth.herokuapp.com/
 https://sergiuplesco.github.io/React-Weather-App/
 
 
-Soft Skills:
+#### Soft Skills:
 
 - Problem Solving, TeamWork, Communication, Patient, Tenacious, Focused on results
 
-Hobbies: 
+#### Hobbies: 
 
 - Pool swimming, bodybuilding
 
