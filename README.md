@@ -12,13 +12,14 @@ Following is my current tech stack.
 #### Tech Stack:
 
 - Backend: NodeJS, ExpressJS
-- Frontend: HTML5, CSS3, Bootstrap, JavaScript, ReactJS (Functional Components, Hooks)
+- Frontend: HTML5, CSS3, JavaScript, ReactJS (Functional Components, Hooks)
+- Helpers: Ant Design, Material UI, Bootstrap
 - Authentication: JWT
 - State management: Redux Toolkit
 - Database: MongoDB Atlas, Mongoose
-- Version Control: Git
+- Version Control: Git, Gitea, GitHub
 - IDE: VS Code
-- Operating System: Windows  
+- Operating System: Windows, Linux
 
 #### Experience: 
 September 2021 - present
