@@ -13,7 +13,7 @@ Following is my current tech stack.
 
 - Frontend: HTML5, CSS3, JavaScript, Typescript, ReactJS (Functional Components, Hooks), NextJS
 - Backend: NodeJS, ExpressJS
-- Helpers: Ant Design, Material UI, Bootstrap
+- Helpers: Ant Design, Material UI, Bootstrap, Tailwind
 - Authentication: JWT
 - State management: Redux Toolkit
 - Database: MongoDB Atlas, Mongoose
