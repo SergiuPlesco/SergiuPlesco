@@ -11,7 +11,7 @@ Following is my current tech stack.
 
 #### Tech Stack:
 
-- Frontend: HTML5, CSS3, JavaScript, Typescript, ReactJS (Functional Components, Hooks), NextJS
+- Frontend: ReactJS, NextJS, JavaScript, TypeScript, CSS3, HTML5
 - Backend: NodeJS, ExpressJS
 - Helpers: Ant Design, Material UI, Bootstrap, Tailwind
 - Authentication: JWT
@@ -42,6 +42,6 @@ https://sergiuplesco.github.io/React-Weather-App/
 
 #### Hobbies: 
 
-- Pool swimming, bodybuilding
+- Pool swimming, bodybuilding, baking sourdough bread
 
 - Reach me at: plescosergiu@gmail.com
